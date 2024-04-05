@@ -69,7 +69,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/nike_landing_page.git
+git clone https://github.com/vishwaselvakumar/Nike-
 cd nike_landing_page
 ```
 
